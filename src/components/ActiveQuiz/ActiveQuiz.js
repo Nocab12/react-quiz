@@ -27,6 +27,6 @@ const ActiveQuiz = props => {
 
 
 
-}
+};
 
 export default ActiveQuiz
